@@ -21,13 +21,14 @@
   
    - apply(Us_Crime_Rate data)
      
-   -merge(Fictitous Names data)
+   - merge(Fictitous Names data)
    
   -Advanced pandas analysis:
   
-   - getting to knowing your data ()
+   - getting to knowing your data (food data)
      
    - stats(Us baby names data)
      
-  - Combination of all the concepts:
+ - Combination of all the concepts:
+    - wines data
   
