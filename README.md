@@ -29,6 +29,6 @@
      
    - stats(Us baby names data)
      
- - Combination of all the concepts:
+   -Combination of all the concepts:
     - wines data
   
